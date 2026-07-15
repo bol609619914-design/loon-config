@@ -1,6 +1,6 @@
 # NAME: Gemini
 # AUTHOR: blackmatrix7, bol609619914-design
-# REPO: https://github.com/bol609619914-design/loon-config
+# REPO: https://github.com/abobb414/loon-config
 # UPSTREAM: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Gemini/Gemini.list
 # GENERATED: scripts/refresh_upstreams.py (edit GeminiSupplement.list for custom rules)
 # DOMAIN: 11

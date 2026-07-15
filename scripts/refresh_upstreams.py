@@ -303,7 +303,7 @@ def build_gemini_rules(upstream: str, supplement: str) -> str:
     header = [
         "# NAME: Gemini",
         "# AUTHOR: blackmatrix7, bol609619914-design",
-        "# REPO: https://github.com/bol609619914-design/loon-config",
+        "# REPO: https://github.com/abobb414/loon-config",
         f"# UPSTREAM: {GEMINI_UPSTREAM_URL}",
         "# GENERATED: scripts/refresh_upstreams.py (edit GeminiSupplement.list for custom rules)",
         *[f"# {rule_type}: {counts[rule_type]}" for rule_type in GEMINI_RULE_TYPES],
