@@ -1,0 +1,18 @@
+{
+  "name": "bol609619914-design's Icon Collection",
+  "description": "Custom icons for Loon. Updated: 2026-07-15.",
+  "icons": [
+    {
+      "name": "Claude",
+      "url": "https://raw.githubusercontent.com/bol609619914-design/loon-config/main/IconSet/Color/Claude.png"
+    },
+    {
+      "name": "Cloudfisher",
+      "url": "https://raw.githubusercontent.com/bol609619914-design/loon-config/main/IconSet/Color/Cloudfisher.png"
+    },
+    {
+      "name": "NiceDuck",
+      "url": "https://raw.githubusercontent.com/bol609619914-design/loon-config/main/IconSet/Color/NiceDuck.png"
+    }
+  ]
+}
